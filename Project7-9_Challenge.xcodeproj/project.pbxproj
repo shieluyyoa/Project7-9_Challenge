@@ -16,6 +16,7 @@
 		06DEB37527F6042700202F87 /* Project7_9_ChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB37427F6042700202F87 /* Project7_9_ChallengeTests.swift */; };
 		06DEB37F27F6042700202F87 /* Project7_9_ChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB37E27F6042700202F87 /* Project7_9_ChallengeUITests.swift */; };
 		06DEB38127F6042700202F87 /* Project7_9_ChallengeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB38027F6042700202F87 /* Project7_9_ChallengeUITestsLaunchTests.swift */; };
+		06DEB38E27F604F900202F87 /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = 06DEB38D27F604F900202F87 /* words.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		06DEB37A27F6042700202F87 /* Project7-9_ChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Project7-9_ChallengeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06DEB37E27F6042700202F87 /* Project7_9_ChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project7_9_ChallengeUITests.swift; sourceTree = "<group>"; };
 		06DEB38027F6042700202F87 /* Project7_9_ChallengeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project7_9_ChallengeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		06DEB38D27F604F900202F87 /* words.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = words.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				06DEB36627F6042700202F87 /* Assets.xcassets */,
 				06DEB36827F6042700202F87 /* LaunchScreen.storyboard */,
 				06DEB36B27F6042700202F87 /* Info.plist */,
+				06DEB38D27F604F900202F87 /* words.txt */,
 			);
 			path = "Project7-9_Challenge";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				06DEB36A27F6042700202F87 /* LaunchScreen.storyboard in Resources */,
 				06DEB36727F6042700202F87 /* Assets.xcassets in Resources */,
 				06DEB36527F6042500202F87 /* Main.storyboard in Resources */,
+				06DEB38E27F604F900202F87 /* words.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
